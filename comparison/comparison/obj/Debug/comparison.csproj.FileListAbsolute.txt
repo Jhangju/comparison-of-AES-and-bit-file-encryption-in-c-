@@ -1,0 +1,10 @@
+C:\Users\Irenic\source\repos\comparison\comparison\bin\Debug\comparison.exe.config
+C:\Users\Irenic\source\repos\comparison\comparison\bin\Debug\comparison.exe
+C:\Users\Irenic\source\repos\comparison\comparison\bin\Debug\comparison.pdb
+C:\Users\Irenic\source\repos\comparison\comparison\obj\Debug\comparison.csprojAssemblyReference.cache
+C:\Users\Irenic\source\repos\comparison\comparison\obj\Debug\comparison.Form1.resources
+C:\Users\Irenic\source\repos\comparison\comparison\obj\Debug\comparison.Properties.Resources.resources
+C:\Users\Irenic\source\repos\comparison\comparison\obj\Debug\comparison.csproj.GenerateResource.cache
+C:\Users\Irenic\source\repos\comparison\comparison\obj\Debug\comparison.csproj.CoreCompileInputs.cache
+C:\Users\Irenic\source\repos\comparison\comparison\obj\Debug\comparison.exe
+C:\Users\Irenic\source\repos\comparison\comparison\obj\Debug\comparison.pdb
